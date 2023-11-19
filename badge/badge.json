@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://github.com/Natan-Torres-0x00/openbadge/blob/main/badge/badge.json",
+  "type": "BadgeClass",
+  "name": "Contributor",
+  "description": "Project contributor.",
+  "image": "https://github.com/Natan-Torres-0x00/openbadge/blob/main/badge/badge.svg",
+  "criteria": "https://github.com/Natan-Torres-0x00/openbadge/blob/main/contributor.md",
+  "tags": [ "contributor", "developer" ],
+  "alignment": [ ],
+  "issuer": "https://github.com/Natan-Torres-0x00/openbadge/blob/main/issuer/issuer-profile.json"
+}
