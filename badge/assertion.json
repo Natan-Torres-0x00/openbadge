@@ -1,7 +1,15 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "identity": "sha256$98fb35df1275f8be95ffccd872d28beaa7f30b4d5374321cc3253d812a277a80"
+  },
   "id": "https://raw.githubusercontent.com/Natan-Torres-0x00/openbadge/main/badge/assertion.json",
   "badge": "https://raw.githubusercontent.com/Natan-Torres-0x00/openbadge/main/badge/badge.json",
+  "verification": {
+    "type": "hosted"
+  },
   "issuedOn": "2023-11-19T17:34:59Z"
 }
