@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="157.869 183.205 596.394 582.752" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cf1a20;
+      }
+
+      .cls-2 {
+        fill: #2f9e3f;
+      }
+
+      .cls-3 {
+        fill: #9a9a9a;
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -966.7030639648438, -31.18396949768068)">
+    <g>
+      <g>
+        <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="1422.769" cy="505.765" rx="298.197" ry="291.376"/>
+      </g>
+    </g>
+    <g>
+      <g id="g-1" transform="matrix(1, 0, 0, 1, 973.173645, 180.278534)">
+        <g>
+          <g>
+            <g>
+              <rect class="cls-3" x="411.84001" y="459.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="411.84001" y="459.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="291.84001" y="459.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="291.84001" y="459.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="531.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="531.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="411.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="411.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="291.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="291.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="411.84001" y="219.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="411.84001" y="219.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="291.84001" y="219.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="291.84001" y="219.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="531.84001" y="99.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="531.84001" y="99.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+            <g>
+              <rect class="cls-3" x="411.84001" y="99.93548" width="100" height="100" rx="10" ry="10"/>
+              <rect class="cls-3" x="411.84001" y="99.93548" width="100" height="100" rx="10" ry="10"/>
+            </g>
+          </g>
+          <g>
+            <circle class="cls-3" cx="341.84001" cy="149.93548" r="55"/>
+            <circle class="cls-3" cx="341.84001" cy="149.93548" r="55"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-2" x="411.84001" y="459.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="291.84001" y="459.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="531.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="411.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="291.84001" y="339.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="411.84001" y="219.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="291.84001" y="219.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="531.84001" y="99.93548" width="100" height="100" rx="10" ry="10"/>
+            <rect class="cls-2" x="411.84001" y="99.93548" width="100" height="100" rx="10" ry="10"/>
+          </g>
+          <circle class="cls-1" cx="341.84001" cy="149.93548" r="55"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
