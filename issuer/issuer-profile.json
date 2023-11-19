@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://github.com/Natan-Torres-0x00/openbadge/issuer/issuer-profile.json",
+  "id": "https://github.com/Natan-Torres-0x00/openbadge/blob/main/issuer/issuer-profile.json",
   "type": "Issuer",
   "name": "Natan Tôrres",
   "url": "https://github.com/Natan-Torres-0x00"
